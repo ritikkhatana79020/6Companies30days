@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistributingMitems",
+            "request": "launch",
+            "mainClass": "DistributingMitems",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCDOfStrings",
+            "request": "launch",
+            "mainClass": "GCDOfStrings",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverlappingRectangle",
+            "request": "launch",
+            "mainClass": "OverlappingRectangle",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAnagramsTogether",
+            "request": "launch",
+            "mainClass": "PrintAnagramsTogether",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunLengthEncoding",
+            "request": "launch",
+            "mainClass": "RunLengthEncoding",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubArrayProductLessThanK",
+            "request": "launch",
+            "mainClass": "SubArrayProductLessThanK",
+            "projectName": "6Companies30days_c87bdc62"
+        },
+        {
+            "type": "java",
+            "name": "Launch UglyNumber",
+            "request": "launch",
+            "mainClass": "UglyNumber",
+            "projectName": "6Companies30days_c87bdc62"
+        }
+    ]
+}
